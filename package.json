@@ -1,0 +1,23 @@
+{
+  "name": "all_about_express_restful_apis",
+  "version": "1.0.0",
+  "description": "This package is all about express framework and building RESTful apis with that.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "arrays"
+  ],
+  "author": "Mohammed Aliyaan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.18"
+  }
+}
